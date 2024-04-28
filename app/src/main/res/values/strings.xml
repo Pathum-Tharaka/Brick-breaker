@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ball</string>
+    <string name="new_game">New Game</string>
+    <string name="score_0">Score: 0</string>
+</resources>
